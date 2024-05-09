@@ -1,0 +1,5 @@
+C:\Users\Sandro\Desktop\ProgramacionLocal\DesafioPokemon_SandroAlvoz\DesafioPokemon\DesafioPokemon\bin\Release\net8.0\publish\DesafioPokemon.exe
+C:\Users\Sandro\Desktop\ProgramacionLocal\DesafioPokemon_SandroAlvoz\DesafioPokemon\DesafioPokemon\bin\Release\net8.0\publish\DesafioPokemon.dll
+C:\Users\Sandro\Desktop\ProgramacionLocal\DesafioPokemon_SandroAlvoz\DesafioPokemon\DesafioPokemon\bin\Release\net8.0\publish\DesafioPokemon.deps.json
+C:\Users\Sandro\Desktop\ProgramacionLocal\DesafioPokemon_SandroAlvoz\DesafioPokemon\DesafioPokemon\bin\Release\net8.0\publish\DesafioPokemon.runtimeconfig.json
+C:\Users\Sandro\Desktop\ProgramacionLocal\DesafioPokemon_SandroAlvoz\DesafioPokemon\DesafioPokemon\bin\Release\net8.0\publish\DesafioPokemon.pdb
